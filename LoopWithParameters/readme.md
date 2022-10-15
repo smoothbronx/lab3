@@ -13,4 +13,4 @@
 ---
 
 #### Все значения подтверждены через графический калькулятор
-![Таблица из Desmos](.\mdfiles\img.png)
+![Таблица из Desmos](/smoothbronx/lab3/blob/master/LoopWithParameters/mdfiles/img.png?raw=true)
